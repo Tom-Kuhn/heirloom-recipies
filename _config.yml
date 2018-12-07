@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  mains:
+    title: mains
+    output: true
   starters:
     title: starters
     output: true
