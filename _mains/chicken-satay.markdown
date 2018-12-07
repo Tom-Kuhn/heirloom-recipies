@@ -1,6 +1,7 @@
 ---
 title: Chicken satay
 date: 2018-12-07 20:57:00 Z
+layout: category-post
 ---
 
 # Ingredients

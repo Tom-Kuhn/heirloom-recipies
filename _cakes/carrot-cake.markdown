@@ -1,12 +1,14 @@
 ---
 title: Carrot cake
-date: 2018-12-07 11:47:00 Z
-tags:
+date: 2018-12-07 10:52:00 Z
+categories:
 - dairy-free
+layout: category-post
 ---
 
-
 # Ingredients
+
+## For the cake
 * 175g light muscovado sugar
 * 175ml sunflower oil
 * 3 large eggs, lightly beaten
@@ -18,7 +20,7 @@ tags:
 * 1 tsp ground cinnamon
 * ½ tsp grated nutmeg(freshly grated will give you the best flavour)
 
-### For the frosting
+## For the icing
 * 175g icing sugar
 * 1½-2 tbsp orange juice
 

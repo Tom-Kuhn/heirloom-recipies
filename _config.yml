@@ -2,19 +2,16 @@
 title: Heirloom recipies
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-  cakes:
-    title: cakes
-    output: true
   mains:
     title: mains
     output: true
-    banner-url: "/assets/images/brooke-lark-500141-unsplash.jpg"
+    banner-url: "/assets/images/brooke-lark-500141-unsplash-1.jpg"
+    order: 1
+  cakes:
+    title: cakes
+    output: true
+    banner-url: "/assets/images/jill-heyer-189419-unsplash-1.jpg"
+    order: 2
 email: tom.c.kuhn@gmail.com
 description: A website dedicated to heirloom recipies for the next generation
 baseurl: ''
