@@ -27,3 +27,5 @@ defaults:
   values:
     layout: page
 permalink: pretty
+
+theme: jekyll-theme-cayman
