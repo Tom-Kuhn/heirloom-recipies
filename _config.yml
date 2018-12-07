@@ -11,6 +11,9 @@ collections:
   cakes:
     title: cakes
     output: true
+  mains:
+    title: mains
+    output: true
 email: tom.c.kuhn@gmail.com
 description: A website dedicated to heirloom recipies for the next generation
 baseurl: ''
