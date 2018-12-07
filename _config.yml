@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  starters:
+    title: starters
+    output: true
 defaults:
 - scope:
     path: ''
