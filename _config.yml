@@ -14,7 +14,6 @@ collections:
   mains:
     title: mains
     output: true
-    layout: category-post
 email: tom.c.kuhn@gmail.com
 description: A website dedicated to heirloom recipies for the next generation
 baseurl: ''
