@@ -6,20 +6,20 @@ tags:
 ---
 
 # Ingredients
-175g light muscovado sugar
-175ml sunflower oil
-3 large eggs, lightly beaten
-140g grated carrot (about 3 medium)
-100g raisins
-grated zest of 1 large orange
-175g self-raising flour
-1 tsp bicarbonate of soda
-1 tsp ground cinnamon
-½ tsp grated nutmeg(freshly grated will give you the best flavour)
+* 175g light muscovado sugar
+* 175ml sunflower oil
+* 3 large eggs, lightly beaten
+* 140g grated carrot (about 3 medium)
+* 100g raisins
+* grated zest of 1 large orange
+* 175g self-raising flour
+* 1 tsp bicarbonate of soda
+* 1 tsp ground cinnamon
+* ½ tsp grated nutmeg(freshly grated will give you the best flavour)
 
 ### For the frosting
-175g icing sugar
-1½-2 tbsp orange juice
+* 175g icing sugar
+* 1½-2 tbsp orange juice
 
 # Method
 
