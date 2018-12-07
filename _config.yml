@@ -2,19 +2,12 @@
 title: Heirloom recipies
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
   cakes:
     title: cakes
     output: true
   mains:
     title: mains
     output: true
-    layout: category-post
 email: tom.c.kuhn@gmail.com
 description: A website dedicated to heirloom recipies for the next generation
 baseurl: ''

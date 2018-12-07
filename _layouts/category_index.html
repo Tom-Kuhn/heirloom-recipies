@@ -2,12 +2,21 @@
 layout: page
 ---
 
-{% if page.category_name %}
-  {% assign category_name = page.category_name %}
-{% endif %}
-
 <div class="container mx-auto">
-  {% for post in site.categories[category_name] %}
-    {% include post_block.html %}
-  {% endfor %}
+    
+  {{content}}
+
+  <ul>
+    
+    {% for post in site[page.category_name] %}
+      {% unless post.url == page.url %}
+        <li>
+          <a href="{{ post.url }}">
+            {{ post.date | date_to_string }} - {{ post.title }}
+          </a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
 </div>
+
