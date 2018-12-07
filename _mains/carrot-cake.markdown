@@ -5,7 +5,7 @@ categories:
 - dairy-free
 tags:
 - dairy-free
-layout: category_post
+layout: category-post
 ---
 
 # Ingredients
