@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  cakes:
+    title: cakes
+    output: true
 email: tom.c.kuhn@gmail.com
 description: A website dedicated to heirloom recipies for the next generation
 baseurl: ''
