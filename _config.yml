@@ -14,6 +14,7 @@ collections:
   mains:
     title: mains
     output: true
+    banner-url: "/assets/images/brooke-lark-500141-unsplash.jpg"
 email: tom.c.kuhn@gmail.com
 description: A website dedicated to heirloom recipies for the next generation
 baseurl: ''
