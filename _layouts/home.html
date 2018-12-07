@@ -29,12 +29,14 @@
       </header>
 
       <div class="container mx-auto px-2 py-4">
-        
-          {% for collection in site.collections %}
+        {% assign sortedCollections = site.collections |sort: 'order' %}
+          {% for collection in sortedCollections %}
             {% if collection.label != "posts" %}
               <div class="row">
-                <a href="/{{collection.label}}">{{ collection.label }}</a>
-                <img src="{{collection.banner-url}}" />
+                <a href="/{{collection.label}}">
+                  <h3>{{ collection.label | capitalize }}</h3>
+                  <img src="{{collection.banner-url}}" alt="{{ collection.label }}" />
+                </a>
               </div>
             {% endif %}
           {% endfor %}
