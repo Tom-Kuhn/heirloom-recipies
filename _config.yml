@@ -8,22 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-  mains:
-    title: mains
-    output: true
-  starters:
-    title: starters
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+email: tom.c.kuhn@gmail.com
+description: A website dedicated to heirloom recipies for the next generation
+baseurl: ''
+url: ''
+twitter_username: tom_kuhn
+github_username: tom-kuhn
+markdown: kramdown
+remote_theme: broccolini/swiss
+theme: jekyll-swiss
+plugins:
+- jekyll-feed
